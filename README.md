@@ -1,5 +1,6 @@
 <!-- Encabezado -->
 [![Colaboradores][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
 [![Estrellas][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
@@ -57,6 +58,8 @@ Distribuido bajo la licencia MIT.
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/aristring/Agrupamiento-Jer-rquico.svg?style=for-the-badge
 [contributors-url]: https://github.com/aristring/Agrupamiento-Jer-rquico/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/aristring/Agrupamiento-Jer-rquico.svg?style=for-the-badge
+[forks-url]: https://github.com/aristring/Agrupamiento-Jer-rquico/forks
 [stars-shield]: https://img.shields.io/github/stars/aristring/Agrupamiento-Jer-rquico?style=for-the-badge
 [stars-url]: https://github.com/aristring/Agrupamiento-Jer-rquico/stargazers
 [issues-shield]: https://img.shields.io/github/issues/aristring/Agrupamiento-Jer-rquico.svg?style=for-the-badge
